@@ -1,0 +1,42 @@
+{
+  "HomePage": {
+    "title": "Dost world!",
+    "description": "urdu Home english des"
+  },
+  "About": {
+    "title": "About Title urdu"
+  },
+  "signup": {
+    "title": "تصدیقی ای میل بھیجیں۔",
+    "firstName": "پہلا نام",
+    "lastName": " آخری نام",
+    "email": "ای میل",
+    "createPassword": "پاس ورڈ بنائیں",
+    "confirmPassword": "پاس ورڈ کی تصدیق کریں",
+    "question": "پہلے سے اکاؤنٹ موجود ہے",
+    "login": "لاگ ان کریں",
+    "or": " یا",
+    "loginFacebook": "فیس بک کے ساتھ لاگ ان کریں",
+    "loginGoogle": "گوگل کے ساتھ لاگ ان کریں"
+  },
+  "login": {
+    "title": "لاگ ان کریں",
+    "email": "ای میل",
+    "password": "پاس ورڈ",
+    "question": "کیا آپ کا اکاؤنٹ نہیں ہے؟",
+    "signup": " رجسٹر کریں",
+    "or": " یا",
+    "forgetPassword": "پاس ورڈ بھول گئے",
+    "loginFacebook": "فیس بک کے ساتھ لاگ ان کریں",
+    "loginGoogle": "گوگل کے ساتھ لاگ ان کریں"
+  },
+  "ourCourses": "ہمارے کورسز",
+  "home": "ہوم",
+  "allCourses": "تمام کورسز",
+  "courseThumbnail": "کورس تھمب نیل",
+  "professorName": "پروفیسر ایلی جان",
+  "lessons": "{{count}} اسباق",
+  "students": "{{count}} طلباء",
+  "price": "$49.99",
+  "rating": "(4.5)"
+}

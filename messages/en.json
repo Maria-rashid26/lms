@@ -1,0 +1,42 @@
+{
+  "HomePage": {
+    "title": "Hello world!",
+    "description": "Home english des"
+  },
+  "About": {
+    "title": "About Title"
+  },
+  "signup": {
+    "title": "Send Verification email",
+    "firstName": "First Name",
+    "lastName": "Last Name",
+    "email": "Email",
+    "createPassword": "Create Password",
+    "confirmPassword": "Confirm Password",
+    "question": "Already have an account?",
+    "or": "or",
+    "login": "Login",
+    "loginFacebook": "Login with Facebook",
+    "loginGoogle": "Login with Google"
+  },
+  "login": {
+    "title": "Login",
+    "email": "Email",
+    "password": "Password",
+    "question": "Don’t have an account?",
+    "signup": "SignUp",
+    "or": "or",
+    "forgetPassword": "Forget password",
+    "loginFacebook": "Login with Facebook",
+    "loginGoogle": "Login with Google"
+  },
+  "ourCourses": "Our Courses",
+  "home": "Home",
+  "allCourses": "All Courses",
+  "courseThumbnail": "Course Thumbnail",
+  "professorName": "Prof. Elly Jhon",
+  "lessons": "{{count}} Lessons",
+  "students": "{{count}} Students",
+  "price": "$49.99",
+  "rating": "(4.5)"
+}
